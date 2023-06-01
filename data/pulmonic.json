@@ -1,0 +1,5673 @@
+{
+    "m̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "m": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɱ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "n̼": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "n̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "n": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɳ̊": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɳ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɲ̊": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɲ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ŋ̊": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ŋ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɴ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 1,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "p": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "b": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "p̪": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "b̪": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "t̼": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "d̼": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "t": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "d": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʈ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɖ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "c": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɟ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "k": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɡ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "q": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɢ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʡ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 1,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʔ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 1
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 1,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "s": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "z": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʃ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 1,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʒ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 1,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʂ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʐ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɕ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʑ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 1,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɸ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "β": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "f": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "v": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "θ̼": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ð̼": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "θ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 1,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ð": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 1,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "θ̠": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ð̠": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɹ̠̊˔": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 1,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɹ̠˔": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 1,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɻ̊˔": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɻ˔": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ç": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʝ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "x": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɣ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "χ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʁ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ħ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʕ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "h": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 1
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɦ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 1
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʋ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɹ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":1
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɻ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":1
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "j": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":1
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɰ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 1,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʔ̞": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 1
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":1
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ⱱ̟": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":1
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ⱱ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 1,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":1
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɾ̼": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 1
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ɾ̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ɾ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ɽ̊": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ɽ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ɢ̆": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ʡ̆": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 1,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":1
+            },
+            "trill": 0
+        }
+    },
+    "ʙ̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ʙ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 1,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "r̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "r": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ɽ̊r̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ɽr": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ʀ̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ʀ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ʜ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 1,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ʢ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 1,
+                "epiglottal": 1,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 1
+        }
+    },
+    "ɬ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɮ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ꞎ": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "𝼅": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "𝼆": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʎ̝": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "𝼄": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʟ̝": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 1
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "l": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 1,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɭ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 1,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʎ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 1,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʟ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 1,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʟ̠": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 1
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 1,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 0,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 0,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɺ̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ɺ": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 1,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "𝼈̥": {
+        "voice": 0,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "𝼈": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 1
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʎ̆": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 1,
+                "velar": 0,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    },
+    "ʟ̆": {
+        "voice": 1,
+        "place": {
+            "labial": {
+                "bilabial": 0,
+                "labiodental": 0,
+                "linguolabial": 0
+            },
+            "coronal": {
+                "dental": 0,
+                "alveolar": 0,
+                "post-alveolar": 0,
+                "retroflex": 0
+            },
+            "dorsal": {
+                "palatal": 0,
+                "velar": 1,
+                "uvular": 0
+            },
+            "laryngeal": {
+                "pharyngeal": 0,
+                "epiglottal": 0,
+                "glottal": 0
+            }
+        },
+        "manner": {
+            "nasal": 0,
+            "plosive": 0,
+            "affricate": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "fricative": {
+                "sibilant": 0,
+                "non-sibilant": 0,
+                "lateral": 0
+            },
+            "approximant": {
+                "lateral": 0,
+                "approximant":0
+            },
+            "tap": {
+                "lateral": 1,
+                "tap":0
+            },
+            "flap": {
+                "lateral": 1,
+                "flap":0
+            },
+            "trill": 0
+        }
+    }
+}
